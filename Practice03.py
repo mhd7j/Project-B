@@ -1,6 +1,3 @@
-
-
-
 def def_1(func):
     def def_2(*asghar):
         a = func(*asghar)
