@@ -1,5 +1,3 @@
-
-
 def decorator(*args):
     def def_1(func):
         
